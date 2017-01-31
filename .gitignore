@@ -35,3 +35,15 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+#############
+# Portfolio project ignore
+css
+*.css
+
+# IDE temp folders
+.idea
+
+# JS modules
+.scripts
+
