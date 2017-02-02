@@ -42,7 +42,7 @@ css
 *.css
 
 # IDE temp folders
-.idea
+idea
 
 # JS modules
 .scripts
